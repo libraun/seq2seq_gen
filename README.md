@@ -1,4 +1,4 @@
-### Seq2Seq Advertisement Generator
+# Seq2Seq Advertisement Generator
 
 An advertisement generator built using Seq2Seq architecture and RNNs.
 
